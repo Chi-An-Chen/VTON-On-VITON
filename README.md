@@ -1,5 +1,7 @@
 # Virtual Try-On Using VITON Dataset  
 
+[Experiment guide: required VITON assets and score inputs](EXPERIMENT_GUIDE.md)
+
 ## Environments  
 ```
 conda env create -f environment.yaml
