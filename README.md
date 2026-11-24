@@ -56,4 +56,4 @@ The model architectures proposed in this study are implemented using the PyTorch
 > * P. Li, Y. Xu, Y. Wei and Y. Yang, "Self-Correction for Human Parsing," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 44, no. 6, pp. 3260-3271, 2022.
 >[[Self Correction Human Parsing]](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing)  
 > * N. Ravi, et al., "Sam 2: Segment anything in images and videos," _ArXiv_, 2024.
->[[StyleGAN-Human]](https://github.com/facebookresearch/segment-anything-2)
+>[[SAM 2]](https://github.com/facebookresearch/segment-anything-2)
